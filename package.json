@@ -1,0 +1,20 @@
+{
+  "name": "ReverseProxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tasiamah/Reverse-Proxy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tasiamah/Reverse-Proxy/issues"
+  },
+  "homepage": "https://github.com/tasiamah/Reverse-Proxy#readme"
+}
